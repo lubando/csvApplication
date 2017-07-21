@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "csvApplication", "csvApplication\csvApplication.csproj", "{6B6656CF-B9D7-41BF-AF78-C468E6B228C6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NewFolder1", "NewFolder1", "{558AFCE9-F63E-44A2-9595-8F609C16AD8C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "csvApplicationTests1", "csvApplicationTests1\csvApplicationTests1.csproj", "{9C56C3D6-6296-4E51-AA7B-B082A5179AF7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B6656CF-B9D7-41BF-AF78-C468E6B228C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B6656CF-B9D7-41BF-AF78-C468E6B228C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B6656CF-B9D7-41BF-AF78-C468E6B228C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B6656CF-B9D7-41BF-AF78-C468E6B228C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C56C3D6-6296-4E51-AA7B-B082A5179AF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C56C3D6-6296-4E51-AA7B-B082A5179AF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C56C3D6-6296-4E51-AA7B-B082A5179AF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C56C3D6-6296-4E51-AA7B-B082A5179AF7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
